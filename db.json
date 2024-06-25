@@ -6,15 +6,15 @@
       "email": "jameswilly@gmail.com",
       "number": "08111111111",
       "millati": "Uzbek",
-      "tugilganJoyi": "Toshkent"
+      "tugilganJoyi": "Andijan"
     },
     {
       "id": "3",
       "name": "Ahmed Ali",
       "email": "ahmedali012@gmail.com",
       "number": "09022222222",
-      "millati": "Qoraqalpoq",
-      "tugilganJoyi": "Qoraqalpog'iston"
+      "millati": "O'zbek",
+      "tugilganJoyi": "Farg'ona"
     },
     {
       "id": "d872",
@@ -22,14 +22,14 @@
       "email": "johndoe@example.com",
       "number": "08123456789",
       "millati": "Uzbek",
-      "tugilganJoyi": "Xorazm"
+      "tugilganJoyi": "Sirdaryo"
     },
     {
       "id": "a252",
       "name": "Asilbek",
       "email": "asilbekabdullayevprogrammer@gmail.com",
       "number": "941920421",
-      "tugilganJoyi": "Qoraqalpog'iston",
+      "tugilganJoyi": "Jizzah",
       "millati": "Uzbek"
     },
     {
@@ -37,8 +37,8 @@
       "name": "sdfdgf",
       "email": "asdfgn@gmil.com",
       "number": "23456",
-      "tugilganJoyi": "Samarqand",
-      "millati": "Qozoq"
+      "tugilganJoyi": "Navoiy",
+      "millati": "Rus"
     },
     {
       "id": "9f80",
@@ -46,7 +46,7 @@
       "email": "asdfgn@gmil.com",
       "number": "23456",
       "tugilganJoyi": "Qashqadaryo",
-      "millati": "Tojik"
+      "millati": "Qirg'iz"
     }
   ]
 }
